@@ -13,5 +13,7 @@ In this section, list any speicifcs about the piece of hardware or service that 
 ----
 
 Author(s): $author_name
+
 Date Created: $date_created
+
 Date Last Modified: $date_modified
