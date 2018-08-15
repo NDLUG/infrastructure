@@ -12,7 +12,7 @@ In this section, list any speicifcs about the piece of hardware or service that 
 
 ----
 
-Author(s): $author_name
+Author(s): $netid_or_other_nick
 
 Date Created: $date_created
 
