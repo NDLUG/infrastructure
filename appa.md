@@ -20,6 +20,8 @@ Sudoers: pbui, jeffery, dsmith, meiseman, wbdabart
 
 ### Appa Maintence Log
 
+2018-10-05 14:19 | Test of replacement SSD failed. Motherboard RMA request intiated. 
+
 2018-08-15 10:39 | Log created
 
 ----
